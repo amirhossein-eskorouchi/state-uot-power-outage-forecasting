@@ -1,0 +1,55 @@
+# Python & editor
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Official challenge data (do not distribute without permission)
+DM_Train.csv
+DM_Test.csv
+sample_submission.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+
+# Research data and results: protect against accidental publication
+*.csv
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.ckpt
+*.log
+code.zip
+final_trial22_state_uot_submission/
+final_artifacts/
+splits/
+stage1_state_uot_tuning/
+trial22_final_confirmation_5seed_5fold/
+uot_experiments/
+ensemble_experiments/
+
+# Dataset dumps, caches and temporary directories
+data/
+datasets/
+outputs/
+runs/
+checkpoints/
+.tmp/
+temp/

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the Team SIOL INFORMS 2026 finalist presentation if you use this project."
+type: software
+title: "Coherent Multi-Horizon Forecasting of Power Outage Severity with State-Wise Unbalanced Optimal Transport"
+authors:
+  - given-names: Amirhossein
+    family-names: Eskorouchi
+  - given-names: Abhro Shome
+    family-names: Pias
+  - given-names: Dongmin Ethan
+    family-names: Kang
+  - given-names: Munirul
+    family-names: Alam
+abstract: "Target-time-consistent dual-stream outage-severity forecasting with state-wise unbalanced optimal transport regularization, developed for the INFORMS 2026 Data Mining Society Data Challenge."
+url: "https://amirhossein-eskorouchi.github.io/projects/state-uot-outage-forecasting/"
+keywords:
+  - power outage forecasting
+  - optimal transport
+  - time series
+  - machine learning
+  - energy systems
